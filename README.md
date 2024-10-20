@@ -3,3 +3,5 @@ This project can correct the subtitles file (basically fix the timestamps) so th
 
 # Demo Video
 https://youtu.be/GEP9B2TDpIA
+
+# MADE WITH ❤ BY PIYUSH, RAJEEV, JAY
